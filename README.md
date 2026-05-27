@@ -33,13 +33,6 @@ Der Bot prüft drei Bedingungen, bevor er ausführt:
 1. Wird der Command in einem Server (nicht im DM) ausgeführt?
 2. Hat der ausführende User Administrator-Rechte?
 3. Hat der Bot selbst die Berechtigung "Channels verwalten"?
-
-**Wichtig:** Diese Prüfungen verhindern technische Fehlschläge, sind aber keine
-Schutzmaßnahmen gegen Missbrauch. Es gibt **keine zusätzliche Bestätigung**,
-**keine Wartezeit** ("Cooldown") und **keine Einschränkung auf bestimmte Server**.
-Wer Admin ist, kann sofort und ohne weitere Hürde die komplette Server-Struktur
-zerstören.
-
 ---
 
 ## Konfiguration
