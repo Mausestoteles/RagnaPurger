@@ -1,8 +1,4 @@
-ted accessible markdown security analysis
-Orchestrated accessible markdown security analysis
-
-markdown
-# Security-Analyse: Discord Bot "Purger"
+RagnaPurger
 
 ## Zusammenfassung
 
