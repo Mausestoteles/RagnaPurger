@@ -54,7 +54,7 @@ async def _do_purge(
 
     for channel in channels:
         try:
-            await channel.delete(reason=f"Purger /purge von {interaction.user}")
+            await channel.delete(reason=f"/Ragnapurge von {interaction.user}")
             deleted += 1
         except discord.Forbidden:
             failed.append(f"{channel.name} (keine Rechte)")
