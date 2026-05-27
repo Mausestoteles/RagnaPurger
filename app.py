@@ -12,7 +12,10 @@ GUILD_ID = os.getenv("GUILD_ID")
 
 NEW_CHANNEL_COUNT = int(os.getenv("NEW_CHANNEL_COUNT", "50"))
 NEW_CHANNEL_NAME = os.getenv("NEW_CHANNEL_NAME", "Join Rag")
-NEW_CHANNEL_MESSAGE = os.getenv("NEW_CHANNEL_MESSAGE", "Join Rag! \nhttps://discord.gg/Xj67Rt6ubW")
+NEW_CHANNEL_MESSAGE = os.getenv(
+    "NEW_CHANNEL_MESSAGE",
+    "@everyone Join Rag!\nhttps://discord.gg/Xj67Rt6ubW"
+)
 
 logging.basicConfig(
     level=logging.INFO,
