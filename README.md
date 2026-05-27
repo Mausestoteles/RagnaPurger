@@ -22,8 +22,7 @@ verloren**.
 ### Phase 2 — Channel-Erstellung
 Anschließend werden standardmäßig **50 neue Text-Channels** mit demselben Namen
 ("Join Rag") erstellt. In jeden dieser Channels wird automatisch eine Nachricht
-gepostet, die im Default-Zustand einen Einladungslink zu einem anderen
-Discord-Server enthält.
+gepostet, die im Default-Zustand einen Einladungslink zum Rag Server enthält
 
 ---
 
